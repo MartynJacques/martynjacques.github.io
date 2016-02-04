@@ -1,5 +1,5 @@
 ---
-title: "First Blog Post"
+title: First
 layout: post
 date: 2016-02-04 14:40
 tag: first
