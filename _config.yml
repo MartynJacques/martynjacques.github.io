@@ -1,0 +1,22 @@
+name: Martyn Jacques
+bio: 'Computer Science Undergrad // IBM Software Engineer Intern'
+picture: 'assets/images/profile.jpg'
+
+url: http://martynjacques.github.io
+permalink: /:title/
+
+linkedin: martynjacques
+github: MartynJacques
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
+
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
