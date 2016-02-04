@@ -1,8 +1,8 @@
 ---
-title: "First Blog Post!"
+title: "First Blog Post"
 layout: post
 date: 2016-02-04 14:40
-tag: blog
+tag: first
 #star: true
 ---
 
