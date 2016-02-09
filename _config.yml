@@ -11,7 +11,6 @@ github: MartynJacques
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, _site, src]
 
 gems:
-  - jemoji
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-feed
