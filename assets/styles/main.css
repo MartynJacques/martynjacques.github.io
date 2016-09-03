@@ -306,6 +306,7 @@ a {
 }
 p {
   line-height: 1.7;
+  text-align: justify;
   color: #666;
   font-weight: 300;
   margin-bottom: 20px;
