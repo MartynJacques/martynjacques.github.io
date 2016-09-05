@@ -6,7 +6,7 @@ date: 2016-03-09 16:30
 #star: true
 ---
 
-![Facebook's London Lego Wall]({{ site.url }}/assets/images/fb_lego_wall.jpg)
+![Facebook's London Lego Wall]({{ site.url }}/assets/images/fb_lego_wall.JPG)
 
 In April 2015 me and [my good friend](http://todddavies.co.uk) found ourselves
 on a high speed train taking us from Manchester down to London for a long,
