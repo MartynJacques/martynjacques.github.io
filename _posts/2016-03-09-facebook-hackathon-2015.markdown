@@ -46,7 +46,8 @@ to this the food and snacks were ace.
 
 ![Facebook's London Lego Wall]({{ site.url }}/assets/images/fb_group_photo.jpg)
 
-To save going into every detail feel free to scope out our final product here.
+To save going into every detail feel free to scope out our final product
+[here](https://github.com/MartynJacques/FacebookHackathon2015).
 As with most, if not all software projects we encountered a number of issues
 along the way, but that's the fun of it. It was a great learning
 experience and the people we met there were ace. Our final presentation went
