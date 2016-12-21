@@ -1,7 +1,7 @@
 ---
 title: "The Perfect LaTeX Atom Setup"
 layout: post
-date: 2016-12-20 16:30
+date: 2016-05-12 11:12
 #tag: markdown
 #star: true
 ---

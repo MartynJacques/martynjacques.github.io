@@ -1,7 +1,7 @@
 ---
 title: "Fixing iTerm2"
 layout: post
-date: 2016-12-20 16:40
+date: 2016-04-02 19:47
 #tag: markdown
 #star: true
 ---
