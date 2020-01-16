@@ -3,7 +3,7 @@ source 'http://rubygems.org'
 gem 'github-pages'
 gem 'rake'
 gem 'pygments.rb'
-gem 'jekyll'
+gem "jekyll", ">= 3.6.3"
 gem 'html-proofer'
 gem 'jemoji'
 gem 'jekyll-mentions'
