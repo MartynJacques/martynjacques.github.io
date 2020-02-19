@@ -209,6 +209,7 @@ html {
 }
 body {
   margin: 0;
+  text-align: justify;
 }
 article,
 aside,
