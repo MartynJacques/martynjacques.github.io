@@ -2,6 +2,7 @@
 title: "The Perfect LaTeX Atom Setup"
 layout: post
 date: 2016-05-12 11:12
+published: false
 #tag: markdown
 #star: true
 ---

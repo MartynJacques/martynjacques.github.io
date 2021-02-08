@@ -2,6 +2,7 @@
 title: "Fixing iTerm2"
 layout: post
 date: 2016-04-02 19:47
+published: false
 #tag: markdown
 #star: true
 ---
