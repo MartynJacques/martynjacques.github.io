@@ -2,7 +2,7 @@ name: Martyn Jacques
 bio: 'Software Engineer, UK'
 picture: 'assets/images/profile.jpg'
 
-# url: http://martynjacques.github.io
+url: https://martynjacques.github.io
 permalink: /:title/
 
 linkedin: martynjacques
