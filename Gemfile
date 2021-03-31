@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'github-pages'
+gem 'github-pages', '>=213'
 gem 'rake'
 gem 'pygments.rb'
 gem "jekyll", ">= 3.6.3"

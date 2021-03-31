@@ -10,7 +10,7 @@ github: MartynJacques
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, _site, src]
 
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-feed
