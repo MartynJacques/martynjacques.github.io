@@ -1,9 +1,9 @@
 source 'http://rubygems.org'
 
-gem 'github-pages', '>=213'
+gem 'github-pages'
 gem 'rake'
 gem 'pygments.rb'
-gem "jekyll", ">= 3.6.3"
+gem 'jekyll'
 gem 'html-proofer'
 gem 'jemoji'
 gem 'jekyll-mentions'
